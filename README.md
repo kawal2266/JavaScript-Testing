@@ -14,6 +14,7 @@
 Mocha is the testing framework and chai is the assertion library.
    
 2. Programs following the TDD (Test Driven Development) patterns
+   ![Test Driven Development Image](https://github.com/kawal2266/JavaScript-Testing/blob/master/Images/TDD.png)
 3. Expand test suites with mocks, stubs and spies
 
 ### Set up
