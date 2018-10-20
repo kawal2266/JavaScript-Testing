@@ -27,7 +27,7 @@ This will it as dev dependency so that it will only be installed when we install
 * Add 'npm run test' command to package.json  
 By adding this we can use 'npm run test' command to run all of the tests in the project.  
 Go to package.json file and add new key called "scripts" and in the value create an object with key-value pair of "test" and "mocha".  
-```js
+```javascript
     "scripts" : {  
         "test" : "mocha"  
     }
