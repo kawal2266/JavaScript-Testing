@@ -1,0 +1,22 @@
+{
+  "name": "jstesting",
+  "version": "1.0.0",
+  "description": "> Write unit tests using       * Mocha     * Chai     * Sinon",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawal2266/JavaScript-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kawal2266/JavaScript-Testing/issues"
+  },
+  "homepage": "https://github.com/kawal2266/JavaScript-Testing#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
